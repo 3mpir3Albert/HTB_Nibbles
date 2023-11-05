@@ -7,3 +7,5 @@ In this repository you will find the technical report of Nibbles, the exploit (p
       ?\>
   - In case you want to execute a reverse shell you will need to be listening in the same port as you specified in the PHP file.
   - Run the tool correctly: python3 pwned.py <base_url_nibbleblog> <nibbleblog_admin_user> <nibbleblog_admin_password>
+
+- Autopwn.py: This file will give you root permissions of the Nibbles machine when you run it. It must meet the same 3 requirements as the previous tool.
